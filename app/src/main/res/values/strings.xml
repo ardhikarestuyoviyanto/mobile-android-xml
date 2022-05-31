@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">news</string>
+    <string name="app_name">Pusat Informasi Mobile</string>
+    <string name="full_app_name">PUSAT INFORMASI UTY</string>
+    <string name="address">UNIVERSITAS TEKNOLOGI YOGYAKARTA</string>
+    <string name="address_lowercase">Universitas Teknologi Yogyakarta</string>
+    <string-array name="kategori_news">
+        <item>Pilih Kategori</item>
+    </string-array>
 </resources>
